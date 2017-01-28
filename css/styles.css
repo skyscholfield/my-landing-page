@@ -86,3 +86,11 @@ ol {
   list-style: none;
   text-align: center;
 }
+#about-me{
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  width: 500px;
+  padding: 25px;
+  margin: 50px;
+
+}
