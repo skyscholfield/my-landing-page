@@ -103,3 +103,15 @@ ol {
 .writing {
   text-align: center;
 }
+
+.coming-soon{
+  padding: 50px;
+  margin: 50px;
+  border: solid black
+}
+
+.contact{
+  text-align: center;
+  font-weight: strong;
+  margin: 100px;
+}

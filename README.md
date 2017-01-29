@@ -16,9 +16,9 @@ _{A landing page for my web programming portfolio}_
 
 _{Nothing special is required to view this page}_
 
-## Known Bugs
+## Link
 
-_{None}_
+_{http://skyscholfield.github.io/my-landing-page}_
 
 ## Support and contact details
 
