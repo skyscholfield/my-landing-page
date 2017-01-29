@@ -85,12 +85,17 @@ h1,h2,h3,h4{
 ol {
   list-style: none;
   text-align: center;
+  padding: 10px;
 }
 #about-me{
-  text-align: center;
   font-family: "Courier New", Courier, monospace;
-  width: 500px;
   padding: 25px;
-  margin: 50px;
+  margin: 25px;
+  text-align: center;
+}
 
+.projects{
+  text-align: center;
+  font-weight: strong;
+  margin: 25px;
 }
