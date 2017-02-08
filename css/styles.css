@@ -109,9 +109,12 @@ ol {
   margin: 50px;
   border: solid black
 }
-
-.contact{
+.contact {
+  padding: 50px;
+  margin: 50px;
   text-align: center;
-  font-weight: strong;
-  margin: 100px;
+}
+
+.nav {
+  text-align: right;
 }
